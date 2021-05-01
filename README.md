@@ -11,6 +11,17 @@ The mechanics are simple, the total amount is a maximum of 20000 PRESAFE, but if
 Simple tokenomics and simple design and no production of token information has catered to the overall success of the project. 100% community owned and driven 
 - no rug is possible. #presafe join us on our journey safely to the moon!
 
+OwnershipTransferred
+
+https://bscscan.com/tx/0xbe6f0935b529575322f476a8fdeb86199313af5743400844706160f2f2d53060#eventlog
+
+new owner adress: 0x000000000000000000000000000000000000dead
+
+https://bscscan.com/readContract?m=normal&a=0x9683bec1b6e8f5191bda252ee79ae46e5865d754&v=0x9683bec1b6e8f5191bda252ee79ae46e5865d754&t=false#readCollapse4
+
+the contract renounced meaning no one has control anymore. So no more tokens can be minted. Token trading cannot be stopped.
+
+
 https://presafe.finance/
 
 https://t.me/presafe
