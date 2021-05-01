@@ -1,6 +1,6 @@
 PreSafe is a fully community owned (only 5% of the total supply will be used for marketing), low fixed supply and decentralized community token in Pancakeswap.
 
-PRESAFE will be available for pre-sale on DXSale in early-mid-May. It will immediately launch on PancakeSwap with locked for 2 years with all sold tokens and liquidity.
+PRESAFE will be available for pre-sale on DXSale in early-mid-May. It will immediately launch on PancakeSwap with locked for 2 years with all liquidity.
 
 DxSale protocol to foster trust in the community by auto-locking liquidity for 2 years.
 
