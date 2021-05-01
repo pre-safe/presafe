@@ -30,4 +30,6 @@ https://twitter.com/presafebsc
 
 https://medium.com/@presafe
 
+https://www.reddit.com/r/PRESAFE/
+
 https://bscscan.com/address/0x9683bec1b6e8f5191bda252ee79ae46e5865d754
