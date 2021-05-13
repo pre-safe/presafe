@@ -21,6 +21,7 @@ https://bscscan.com/readContract?m=normal&a=0x9683bec1b6e8f5191bda252ee79ae46e58
 
 the contract renounced meaning no one has control anymore. So no more tokens can be minted. Token trading cannot be stopped.
 
+Fair Launch. Yield farming yield farm pancakeswap bsc binance smart chain
 
 https://presafe.finance/
 
